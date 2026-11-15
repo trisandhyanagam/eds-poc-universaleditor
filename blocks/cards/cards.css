@@ -12,6 +12,10 @@
   background-color: var(--background-color);
 }
 
+.cards > ul > li  p {
+ font-weight: bold;
+}
+
 .cards .cards-card-body {
   margin: 16px;
 }
